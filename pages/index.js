@@ -28,7 +28,7 @@ export default function Home({ allPostsData }) {
         </ul>
       </section>
 
-      <h3>UPDATE C CHECK PR MESSAGES</h3>
+      <h3>UPDATE D</h3>
     </Layout>
   )
 }
