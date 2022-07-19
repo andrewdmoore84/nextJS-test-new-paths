@@ -28,7 +28,7 @@ export default function Home({ allPostsData }) {
         </ul>
       </section>
 
-      <h3>UPDATE F Check Build action log/success</h3>
+      <h3>UPDATE G Hopefully this one works? Check for S3 bucket acceleration error</h3>
     </Layout>
   )
 }
